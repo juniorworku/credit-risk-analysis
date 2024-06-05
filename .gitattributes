@@ -1,0 +1,18 @@
+nano .gitattributes
+
+# Add the following lines to .gitattributes
+* text=auto
+*.c text
+*.h text
+*.cpp text
+*.hpp text
+*.py text
+*.java text
+*.ipynb text
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.zip binary
+*.exe binary
