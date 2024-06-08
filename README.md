@@ -108,7 +108,17 @@ This project encompasses a comprehensive analysis of credit risk, including data
 
 ## Task 4 - Modelling
 
+   - Objective: Build and evaluate predictive models to classify users into high-risk and low-risk categories.
 
+   - Steps and Findings:
+
+  1. Model Selection and Training
+      - Split the Data
+      - Choose Models
+      - Train the Models:
+  2. Hyperparameter Tuning
+      - Grid Search:
+  3. Model Evaluation
 
 
 ## Conclusion
